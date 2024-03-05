@@ -1,0 +1,6 @@
+create -sphere sphere0 -rotate <0, 0, 0> -scale 0.857616 -translate <4.63991, 1.76987, -5.06169> -color <118, 142, 134, 255>
+create -sphere sphere1 -rotate <0, 0, 0> -scale 1.07233 -translate <2.42559, 1.98739, -1.7471> -color <153, 155, 164, 255>
+create -sphere sphere2 -rotate <0, 0, 0> -scale 0.82284 -translate <2.68179, 0.0181227, -3.26849> -color <109, 159, 216, 255>
+create -sphere sphere3 -rotate <0, 0, 0> -scale 0.906781 -translate <1.35106, -0.167035, 1.27922> -color <171, 123, 135, 255>
+create -sphere sphere4 -rotate <0, 0, 0> -scale 0.695822 -translate <-0.519615, 0.101036, 0> -color <104, 81, 52, 255>
+create -sphere sphere5 -rotate <0, 0, 0> -scale 0.772545 -translate <-1.95264, 1.46844, -0.00459099> -color <226, 156, 90, 255>
